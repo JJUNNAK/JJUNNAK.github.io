@@ -9,6 +9,6 @@ main:
 sidebar-category:
   - title: "상위메뉴"
     children:
-      - title: "하위메뉴"
+      - title: "spring"
         url: "/spring"
         
