@@ -8,7 +8,7 @@ main:
     url: /sitemap/
 sidebar-category:
   - title: "상위메뉴"
-    Children:
+    children:
       - title: "하위메뉴"
         url: "/spring"
         
