@@ -6,3 +6,9 @@ main:
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
+docs:
+  - title: "상위메뉴"
+    Children:
+      - tittle: "하위메뉴"
+        url: _posts/
+        category: "카테고리"
